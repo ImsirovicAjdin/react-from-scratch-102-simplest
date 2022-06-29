@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is [deployed on Netlify]().
+This project is [deployed on Netlify](https://fanciful-entremet-8719f2.netlify.app/).
 
 ## Tasks
 
